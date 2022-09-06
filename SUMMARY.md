@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Landing Your Next Job](README.md)
+* [Note From the Author](README.md)
+* [Landing Your Next Job](<README (1).md>)
 * [Applying for Jobs](applying-for-jobs/README.md)
   * [Things to Consider](applying-for-jobs/things-to-consider.md)
   * [Resume](applying-for-jobs/resume/README.md)
@@ -21,4 +22,3 @@
 * [Handling Rejection](handling-rejection.md)
 * [Offers](offers.md)
 * [Additional Resources](additional-resources.md)
-* [Note From the Author](note-from-the-author.md)

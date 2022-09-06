@@ -1,9 +1,11 @@
-# Landing Your Next Job
+# Note From the Author
 
-Back in July of 2022, I went through what I'm convinced is a rite of passage when working in the tech industry. I got laid off (due to a mass layoff/restructure) after only having been at the company less than 2 months. I was devastated. This was my first senior role and I was excited to have the opportunity to showcase my skills as a Senior Software Engineer.
+This handbook was written with the intention of analyzing the tech interview process. I wanted to break down the steps it takes to get a job, from applying all the way to signing the offer. After having repeated the job hunt 3+ times, I wanted to share my experience so that maybe it can help someone else down the line.
 
-With the current state of the economy, I was concerned about how long it may take me to land another job. I had just finished interviewing 2 months ago, and now I'm back at square one. I took 4 days off to process the situation and then came back ready to make my next move.
+If this handbook has helped you land a job, drop me a line! I'd love to hear about it.
 
-The truth was that, even though I was starting from square one, I was starting with an additional 2 months of experience. This time around, it took me a 5 weeks to land a new job. I'm writing this guide for those coming into the field from non-traditional backgrounds, the ones who aren't sure if this field is right for them, and for those who are trying to land their first tech job. Here's what I did this time, what I learned, and some sprinkles of motivation.
+### Let's Connect
 
-_This handbook is intended for those coming from non-traditional backgrounds looking for more frontend focused roles, though the core information can apply to backend & full stack focused roles as well. This handbook is meant to be a starting point and does not include everything you need to know for job hunting and interviewing. Individual epic success may vary._
+* [LinkedIn](https://www.linkedin.com/in/jeannie-t-nguyen/)
+* [GitHub](https://github.com/jeannienguyen)
+* [Dev.to](https://dev.to/jeannienguyen)
